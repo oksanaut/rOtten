@@ -14,9 +14,13 @@ Time: 7 hours
  - Use Cocoapods
  - Use UIImageView+AFNetworking
 
+Required items demonstration:
 
+![Screenshot](https://raw.githubusercontent.com/oksanaut/rOtten/master/Rotten%20Tomatoes%20.gif)
 
+Dynamic Label/ScrollView height and label positioning:
 
+![Screenshot](https://raw.githubusercontent.com/oksanaut/rOtten/master/Rotten%20Tomatoes%20-%20dynamic%20height%20+%20positioning.gif)
 
 
 <!--#Optional#-->
